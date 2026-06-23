@@ -1,9 +1,9 @@
 # 📝 My Notes - Aplikasi Catatan Pribadi
 
 ## Identitas
-- **Nama**: [ Lutfita Az-Zahra ]
-- **NIM**: [2024160005]
-- **Kelas**: [Manajemen Informatika]
+- **Nama**: Lutfita Az-Zahra
+- **NIM**: 2024160005
+- **Kelas**: Manajemen Informatika
 
 ## Daftar Fitur
 
@@ -24,17 +24,39 @@
 - 💎 Halaman detail catatan saat card di-tap
 
 ## Screenshot
+
+### Splash Screen
+![Splash Screen](Screenshoots/splash.png)
+
 ### Halaman Utama
-![Halaman Utama](screenshots/home.png)
+![Halaman Utama](Screenshoots/home.png)
+
+### Drawer
+![Drawer](Screenshoots/drawer.png)
 
 ### Tambah Catatan
-![Tambah Catatan](screenshots/add.png)
+![Tambah Catatan](Screenshoots/tambah_catatan.png)
 
 ### Hapus Catatan
-![Hapus Catatan](screenshots/delete.png)
+![Hapus Catatan](Screenshoots/delete.png)
 
 ### Halaman Detail
-![Detail](screenshots/detail.png)
+![Halaman Detail](Screenshoots/detail1.png)
+
+### Halaman Detail 2
+![Halaman Detail 2](Screenshoots/detail2.png)
+
+### Halaman Detail 3
+![Halaman Detail 3](Screenshoots/detail3.png)
 
 ### Search
-![Search](screenshots/search.png)
+![Search](Screenshoots/seacrh.png)
+
+### Profil
+![Profil](Screenshoots/profil.png)
+
+### Tentang
+![Tentang](Screenshoots/tentang.png)
+
+### Add After Delete (AAD)
+![AAD](Screenshoots/aad.png)
